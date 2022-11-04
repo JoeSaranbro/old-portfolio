@@ -8,7 +8,7 @@ const Functions = () => {
     <div className='content'>
         <div className=''><ButtonAddNums /></div>
         <div className=''><ButtonAddNums /></div>
-        <div className=''><MapPrac /></div>
+       {/* <div className=''><MapPrac /></div> */}
         <div className=''><CRUD /></div>
     </div>
   )
