@@ -19,7 +19,7 @@ const Login = ( {setUser} ) => {
 
 
   return (
-    <div className=''>
+    <div className='bg-black'>
     <section className='section'>
       <form className='form' onSubmit={handleSubmit}>
         <h5>login</h5>
