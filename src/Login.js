@@ -19,7 +19,7 @@ const Login = ( {setUser} ) => {
 
 
   return (
-    <div className='flex '>
+    <div className='grid '>
     <section className='section'>
       <form className='form' onSubmit={handleSubmit}>
         <h5>login</h5>
