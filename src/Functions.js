@@ -6,7 +6,7 @@ import  {CRUD}  from "./FunctionsDetail"
 const Functions = () => {
   return (
     <div className='content'>
-        {/* <div className=''><ButtonAddNums /></div> */}
+         <div className=''><ButtonAddNums /></div> 
         <div className=''><ButtonAddNums /></div>
        {/* <div className=''><MapPrac /></div> */}
         <div className=''><CRUD /></div>
